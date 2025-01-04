@@ -26,6 +26,24 @@ const question = [
       { text: "apple", correct: false },
     ],
   },
+  {
+    question: "Inside which HTML element do we put the javascript",
+    answers: [
+      { text: "javascript", correct: false },
+      { text: "scripting", correct: false },
+      { text: "js", correct: false },
+      { text: "script", correct: true },
+    ],
+  },
+  {
+    question: "What is javascript used for in web development",
+    answers: [
+      { text: "Styling web pages", correct: false },
+      { text: "Structuring content", correct: false },
+      { text: "adding interactivity", correct: true },
+      { text: "None of the above", correct: false },
+    ],
+  },
 ];
 
 const questionElement = document.getElementById("question");
