@@ -17,6 +17,15 @@ const question = [
       { text: "Africa", correct: false },
     ],
   },
+  {
+    question: "Which is the national fruit of india",
+    answers: [
+      { text: "banana", correct: false },
+      { text: "mango", correct: true },
+      { text: "orange", correct: false },
+      { text: "apple", correct: false },
+    ],
+  },
 ];
 
 const questionElement = document.getElementById("question");
