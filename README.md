@@ -10,10 +10,11 @@ A fun, interactive, and responsive quiz application built with **HTML**, **CSS**
 
 ---
 
-## 📸 Preview
+## 🎥 Preview
 
-![Quiz App Demo](https://your-gif-link-here.com/quiz-app-preview.gif)
-
+<div>
+<img src="./assets/preview.gif" alt="sample gif" width="600px"  />
+</div>
 ---
 
 ## 📋 Features
@@ -44,3 +45,9 @@ A fun, interactive, and responsive quiz application built with **HTML**, **CSS**
 ---
 
 
+## 📝 Author
+
+👩‍💻 **Designed and Developed by [Iswarya Sundarrajan](https://www.linkedin.com/in/iswarya26/)**  
+📫 Connect with me for more amazing projects!
+
+---
