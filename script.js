@@ -1,50 +1,51 @@
-const question = [
+const questions = [
   {
-    question: "Which is largest animal in the world?",
+    question: "What is the capital of India?",
     answers: [
-      { text: "Shark", correct: false },
-      { text: "Blue Whale", correct: false },
+      { text: "Mumbai", correct: false },
+      { text: "New Delhi", correct: true },
+      { text: "Kolkata", correct: false },
+      { text: "Chennai", correct: false },
+    ],
+  },
+  {
+    question: "Which is the national animal of India?",
+    answers: [
+      { text: "Lion", correct: false },
+      { text: "Tiger", correct: true },
       { text: "Elephant", correct: false },
-      { text: "Giraffe", correct: true },
+      { text: "Peacock", correct: false },
     ],
   },
   {
-    question: "Which is the smallest continent in the world?",
+    question: "Who is known as the 'Father of the Nation' in India?",
     answers: [
-      { text: "Asia", correct: false },
-      { text: "Australia", correct: true },
-      { text: "Arctic", correct: false },
-      { text: "Africa", correct: false },
+      { text: "Jawaharlal Nehru", correct: false },
+      { text: "Subhas Chandra Bose", correct: false },
+      { text: "Mahatma Gandhi", correct: true },
+      { text: "Sardar Patel", correct: false },
     ],
   },
   {
-    question: "Which is the national fruit of india",
+    question: "Which is the national flower of India?",
     answers: [
-      { text: "banana", correct: false },
-      { text: "mango", correct: true },
-      { text: "orange", correct: false },
-      { text: "apple", correct: false },
+      { text: "Rose", correct: false },
+      { text: "Lotus", correct: true },
+      { text: "Sunflower", correct: false },
+      { text: "Marigold", correct: false },
     ],
   },
   {
-    question: "Inside which HTML element do we put the javascript",
+    question: "Which is the national sport of India?",
     answers: [
-      { text: "javascript", correct: false },
-      { text: "scripting", correct: false },
-      { text: "js", correct: false },
-      { text: "script", correct: true },
-    ],
-  },
-  {
-    question: "What is javascript used for in web development",
-    answers: [
-      { text: "Styling web pages", correct: false },
-      { text: "Structuring content", correct: false },
-      { text: "adding interactivity", correct: true },
-      { text: "None of the above", correct: false },
+      { text: "Cricket", correct: false },
+      { text: "Hockey", correct: true },
+      { text: "Football", correct: false },
+      { text: "Badminton", correct: false },
     ],
   },
 ];
+
 
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-button");
