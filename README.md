@@ -28,8 +28,6 @@ A fun, interactive, and responsive quiz application built with **HTML**, **CSS**
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 | File/Folder   | Description                                |
 |---------------|--------------------------------------------|
 | `index.html`  | Contains the structure of the app          |
