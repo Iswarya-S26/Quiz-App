@@ -28,11 +28,16 @@ A fun, interactive, and responsive quiz application built with **HTML**, **CSS**
 
 ## 📂 Project Structure
 
-| File         | Description                       |
-|--------------|-----------------------------------|
-| `index.html` | Contains the structure of the app |
-| `style.css`  | Handles the styling of the app    |
-| `script.js`  | Contains the app's logic          |
+## 📂 Project Structure
+
+| File/Folder   | Description                                |
+|---------------|--------------------------------------------|
+| `index.html`  | Contains the structure of the app          |
+| `style.css`   | Handles the styling of the app             |
+| `script.js`   | Contains the app's logic                   |
+| `README.md`   | Documentation for the project              |
+| `assets/`     | Contains media files (e.g., preview GIFs)  |
+
 
 ---
 
