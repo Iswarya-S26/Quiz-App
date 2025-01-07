@@ -6,7 +6,7 @@ A fun, interactive, and responsive quiz application built with **HTML**, **CSS**
 
 ## 🚀 Live Preview
 
-[Click here to try the app! 🌐](https://your-live-link-here.com)
+[Click here to try the app! 🌐](https://iswarya-s26.github.io/Quiz-App/)
 
 ---
 
