@@ -1,6 +1,6 @@
 # 🎉 Simple Quiz App 🎉
 
-A , interactive, and responsive quiz application built with **HTML**, **CSS**, and **JavaScript**. Test your knowledge and see how well you score! 🧠✨
+A fun, interactive, and responsive quiz application built with **HTML**, **CSS**, and **JavaScript**. Test your knowledge and see how well you score! 🧠✨
 
 ---
 
